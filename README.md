@@ -28,4 +28,4 @@
 
 - ReactJS
 
-https://image-gallery-react-r.netlify.app/
+galery-react-nev.netlify.app
