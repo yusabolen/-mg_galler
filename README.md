@@ -28,4 +28,4 @@
 
 - ReactJS
 
-galery-react-nev.netlify.app
+[galery-react-nev.netlify.app](https://galery-react-nev.netlify.app/)
